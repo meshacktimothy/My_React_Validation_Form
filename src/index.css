@@ -111,6 +111,7 @@ marquee h2 {
 .fromContainer span {
   color: red;
   font-size: 10px;
+<<<<<<< HEAD
 }
 
 @media (max-width:1024px) {
@@ -149,3 +150,6 @@ marquee h2 {
     background-color: green;
   }
 } */
+=======
+}  
+>>>>>>> e5e633647981bc6f7c702be0877011a11a7f1f96
